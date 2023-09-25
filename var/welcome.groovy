@@ -1,3 +1,3 @@
 def call(){
-        echo "Welcome to Good's Jenkins - Shared Library"
+        echo "Hi and Welcome to Good's Jenkins - Shared Library"
 }
